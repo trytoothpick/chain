@@ -1,0 +1,4 @@
+geth.log
+*.DS_Store
+
+build/
